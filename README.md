@@ -2,7 +2,7 @@
 
 ![Stats 2017-09-07](stats20170907.png)
 
-Last updated: 2017-09-07
+Last updated: 2017-10-03 (added Spårvägsmuseet)
 
 ### List of institutions
 
@@ -16,6 +16,7 @@ Last updated: 2017-09-07
 * Riksarkivet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+National+Archives+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Tekniska museet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Tekniska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Work With Sounds (Arbetets museum) / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+Work+With+Sounds&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
+* Spårvägsmuseet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Spårvägsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Regionarkivet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Regionarkivet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Brunnsmuseet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+provided+by+Brunnsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Riksutställningar / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Riksutställningar&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
