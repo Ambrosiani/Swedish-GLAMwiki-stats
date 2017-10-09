@@ -1,6 +1,6 @@
 ## Swedish GLAMwiki stats
 
-![Stats 2017-09-07](stats20170907.png)
+![Stats 2017-10-09](stats20171009.png)
 
 ## Update log
 
