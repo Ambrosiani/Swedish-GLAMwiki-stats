@@ -2,7 +2,7 @@
 
 ![Stats 2017-10-09](stats20171009.png)
 
-## Update log
+### Update log
 
 * 2017-10-09: updated stats for Riksantivarieämbetet, added Internetmuseum, sorted list alphabetically
 * 2017-10-03: added Spårvägsmuseet
