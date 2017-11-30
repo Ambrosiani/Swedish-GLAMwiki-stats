@@ -1,9 +1,10 @@
 ## Swedish GLAMwiki stats
 
-![Stats 2017-10-09](stats20171009.png)
+![Stats 2017-11-30](stats20171130.png)
 
 ### Update log
 
+* 2017-11-30: added Stockholms stadsmuseum, updated stats
 * 2017-10-11: added Musikverket
 * 2017-10-09: updated stats for Riksantivarieämbetet, added Internetmuseum, sorted list alphabetically
 * 2017-10-03: added Spårvägsmuseet
@@ -26,5 +27,6 @@
 * Statens maritima museer / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Statens+maritima+museer&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Statens museer för världskultur / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+the+National+Museums+of+World+Culture&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Stockholms Stadsarkiv / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+by+Stockholms+stadsarkiv&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
+* Stockholms Stadsmuseum / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Stockholms+stadsmuseum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Tekniska museet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Tekniska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Work With Sounds (Arbetets museum) / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+Work+With+Sounds&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
