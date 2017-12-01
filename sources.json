@@ -1,20 +1,74 @@
 {
-	"Brunnsmuseet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+provided+by+Brunnsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Internetmuseum": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Internetmuseum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Kungliga biblioteket": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+National+Library+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Livrustkammaren, Skoklosters slott och Hallwylska museet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Livrustkammaren+och+Skoklosters+slott+med+Stiftelsen+Hallwylska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Musikverket": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Swedish+Performing+Arts+Agency&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Nationalmuseum": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Nationalmuseum+Stockholm&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Nordiska museet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Nordiska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Regionarkivet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Regionarkivet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Riksantikvarieämbetet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Swedish+National+Heritage+Board&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Riksarkivet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+National+Archives+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Riksutställningar": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Riksutställningar&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Spårvägsmuseet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Spårvägsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Statens maritima museer": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Statens+maritima+museer&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Statens museer för världskultur": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+the+National+Museums+of+World+Culture&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Stockholms Stadsarkiv": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+by+Stockholms+stadsarkiv&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Stockholms Stadsmuseum": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Stockholms+stadsmuseum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Tekniska museet": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Tekniska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml",
-	"Work With Sounds (Arbetets museum)": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+Work+With+Sounds&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	"Brunnsmuseet": {
+		"category": "Media provided by Brunnsmuseet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+provided+by+Brunnsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Internetmuseum": {
+		"category": "Images from Internetmuseum",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Internetmuseum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Kungliga biblioteket": {
+		"category": "Images from the National Library of Sweden",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+National+Library+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Livrustkammaren, Skoklosters slott och Hallwylska museet": {
+		"category": "Images from Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Livrustkammaren+och+Skoklosters+slott+med+Stiftelsen+Hallwylska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Musikverket": {
+		"category": "Images from the Swedish Performing Arts Agency",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Swedish+Performing+Arts+Agency&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Nationalmuseum": {
+		"category": "Images from the Nationalmuseum Stockholm",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Nationalmuseum+Stockholm&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Nordiska museet": {
+		"category": "Images from Nordiska museet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Nordiska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Regionarkivet": {
+		"category": "Images from Regionarkivet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Regionarkivet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Riksantikvarieämbetet": {
+		"category": "Images from the Swedish National Heritage Board",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Swedish+National+Heritage+Board&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Riksarkivet": {
+		"category": "Images from the National Archives of Sweden",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+National+Archives+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Riksutställningar": {
+		"category": "Images from Riksutställningar",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Riksutställningar&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Spårvägsmuseet": {
+		"category": "Images from Spårvägsmuseet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Spårvägsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Statens maritima museer": {
+		"category": "Images from Statens maritima museer",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Statens+maritima+museer&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Statens museer för världskultur": {
+		"category": "Media from the National Museums of World Culture",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+the+National+Museums+of+World+Culture&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Stockholms Stadsarkiv": {
+		"category": "Images by Stockholms stadsarkiv",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+by+Stockholms+stadsarkiv&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Stockholms Stadsmuseum": {
+		"category": "Images from Stockholms stadsmuseum",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Stockholms+stadsmuseum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Tekniska museet": {
+		"category": "Images from Tekniska museet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Tekniska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Work With Sounds (Arbetets museum)": {
+		"category": "Media from Work With Sounds",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+Work+With+Sounds&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	}
 }
