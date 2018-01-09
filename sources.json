@@ -1,7 +1,19 @@
 {
+	"Armémuseum": {
+		"category": "Images from the Swedish Army Museum",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Swedish+Army+Museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
 	"Brunnsmuseet": {
 		"category": "Media provided by Brunnsmuseet",
 		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+provided+by+Brunnsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Flygvapenmuseum": {
+		"category": "Images from the Swedish Air Force Museum",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+the+Swedish+Air+Force+Museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Historiska museet": {
+		"category": "Images from Statens historiska museum",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Statens+historiska+museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
 	},
 	"Internetmuseum": {
 		"category": "Images from Internetmuseum",
@@ -43,6 +55,10 @@
 		"category": "Images from Riksutställningar",
 		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Riksutställningar&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
 	},
+	"Skellefteå museum": {
+		"category": "Images from Skellefteå Museum",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Skellefteå+Museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
 	"Spårvägsmuseet": {
 		"category": "Images from Spårvägsmuseet",
 		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Spårvägsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
@@ -66,6 +82,10 @@
 	"Tekniska museet": {
 		"category": "Images from Tekniska museet",
 		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Tekniska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
+	},
+	"Upplandsmuseet": {
+		"category": "Images from Upplandsmuseet",
+		"link": "https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Upplandsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
 	},
 	"Work With Sounds (Arbetets museum)": {
 		"category": "Media from Work With Sounds",
