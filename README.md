@@ -1,4 +1,4 @@
-## Swedish GLAMwiki stats
+## Swedish #GLAMwiki stats
 
 | institution | files | used |
 |---|---|---|
@@ -28,7 +28,7 @@
 
 ### Update log
 
-* 2018-03-10: updated stats using [GLAM_stats](https://github.com/Ambrosiani/GLAM_stats) by [Vesihiisi](https://github.com/Vesihiisi)
+* 2018-03-10: added Armémuseum, Flygvapenmuseum, Skellefteå museum, Upplandsmuseet & Historiska museet, updated stats
 * 2018-01-01: updated stats using [GLAM_stats](https://github.com/Ambrosiani/GLAM_stats) by [Vesihiisi](https://github.com/Vesihiisi)
 * 2017-11-30: added Stockholms stadsmuseum, updated stats
 * 2017-10-11: added Musikverket
