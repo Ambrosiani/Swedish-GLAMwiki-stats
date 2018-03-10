@@ -23,11 +23,13 @@
 | [Brunnsmuseet](https://commons.wikimedia.org/wiki/Category:Media_provided_by_Brunnsmuseet) | 50 | 7 |
 | [Stockholms stadsarkiv](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsarkiv) | 43 | 32 |
 | [Riksutställningar](https://commons.wikimedia.org/wiki/Category:Images_from_Riksutställningar) | 37 | 0 |
+| [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 21 | 11 |
 | [Stockholms stadsmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsmuseum) | 2 | 1 |
-| [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 2 | 2 |
+
 
 ### Update log
 
+* 2018-03-10: added a few missing images to the Historiska museet category.
 * 2018-03-10: added Armémuseum, Flygvapenmuseum, Skellefteå museum, Upplandsmuseet & Historiska museet, updated stats
 * 2018-01-01: updated stats using [GLAM_stats](https://github.com/Ambrosiani/GLAM_stats) by [Vesihiisi](https://github.com/Vesihiisi)
 * 2017-11-30: added Stockholms stadsmuseum, updated stats
