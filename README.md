@@ -2,7 +2,7 @@
 
 | institution | files | used |
 |---|---|---|
-| [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_National_Heritage_Board) | 185669 | 2689 |
+| [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Media_from_the_Swedish_National_Heritage_Board) | 185705 | 2698 |
 | [Livrustkammaren, Skoklosters slott och Hallwylska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet) | 46336 | 2023 |
 | [Nationalmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Nationalmuseum_Stockholm) | 5402 | 4637 |
 | [Musikverket](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Performing_Arts_Agency) | 4557 | 87 |
