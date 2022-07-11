@@ -22,6 +22,7 @@
 | [Riksarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Archives_of_Sweden) | 1020 (+338) | 322 (+210) |
 | [Work With Sounds (Arbetets museum)](https://commons.wikimedia.org/wiki/Category:Media_from_Work_With_Sounds) | 911 (0) | 81 (+3) |
 | [Thielska galleriet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Thielska_Galleriet_Stockholm_2020) | 795 (0) | 127 (+25) |
+| [Sörmlands museum](https://commons.wikimedia.org/wiki/Category:All_images_from_Sörmlands_museum) | 760 (+760) | 114 (+114) |
 | [Flygvapenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Air_Force_Museum) | 488 (+13) | 204 (+14) |
 | [Helsingborgs museum](https://commons.wikimedia.org/wiki/Category:Images_from_Helsingborgs_museum) | 296 (+296) | 106 (+106) |
 | [Järnvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Railway_Museum) | 269 (+81) | 54 (+34) |
@@ -43,7 +44,7 @@
 
 ### Update log
 
-* 2022-07-11: updated stats, added ArkDes, Bohusläns museum, Helsingborgs museum & Postmuseum
+* 2022-07-11: updated stats, added ArkDes, Bohusläns museum, Helsingborgs museum, Postmuseum & Sörmlands museum
 * 2021-05-18: updated stats, added Thielska galleriet & Jönköpings läns museum
 * 2019-10-21: updated stats
 * 2019-01-31: updated stats, added Järnvägsmuseet
