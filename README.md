@@ -1,8 +1,8 @@
 ## Swedish #GLAMwiki stats
 
-### Current stats: 2019-10-21
+### Current stats: 2021-05-18
 
-(comparison is with 2019-01-31)
+(comparison is with 2019-10-21)
 
 
 | institution | files | used | 
