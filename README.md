@@ -5,64 +5,37 @@
 (comparison is with 2019-10-21)
 
 
-| institution | files | used | 
-|---|---|---|---|
-| [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Media_from_the_Swedish_National_Heritage_Board) | 185940 (+9) | 5272 (+760) | 
+| institution | files |
+|---|---|---|
+| [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Media_from_the_Swedish_National_Heritage_Board) | 185940 (+9) | 5272 (+760) |
 | [Livrustkammaren, Skoklosters slott och Hallwylska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet) | 46372 (+22) | 2533 (+224) | 
 | [Nordiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Nordiska_museet) | 14194 (+1849) | 1176 (+313) | 
 | [Musikverket](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Performing_Arts_Agency) | 9490 (+3469) | 3346 (+3044) | 
 | [Statens museer för världskultur](https://commons.wikimedia.org/wiki/Category:Media_from_the_National_Museums_of_World_Culture) | 5801 (+353) | 417 (+149) | 
 | [Nationalmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Nationalmuseum_Stockholm) | 5498 (+50) | 5301 (+555) | 
-| [Statens maritima museer](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_maritima_museer) | 4504 (+738) | 771 | 
-| [Kungliga Biblioteket](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Library_of_Sweden) | 2542 | 45 |
-| [Tekniska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Tekniska_museet) | 1789 | 804 | 
-| [Armémuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Army_Museum) | 1205 | 665 | 
-| [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 1120 | 53 | 
-| [Work With Sounds (Arbetets museum)](https://commons.wikimedia.org/wiki/Category:Media_from_Work_With_Sounds) | 911 | 78 | 
-| [Thielska galleriet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Thielska_Galleriet_Stockholm_2020) | 795 | 102 | 
-| [Riksarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Archives_of_Sweden) | 682 | 112 | 
-| [Flygvapenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Air_Force_Museum) | 475 | 190 | 
-| [Spårvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Spårvägsmuseet) | 262 | 70 | 
-| [Järnvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Railway_Museum) | 188 | 20 | 
-| [Länsmuseet Gävleborg](https://commons.wikimedia.org/wiki/Category:Images_from_Länsmuseet_Gävleborg) | 125 | 85 | 
-| [Upplandsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Upplandsmuseet) | 90 | 23 | 
-| [Internetmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Internetmuseum) | 75 | 26 | 
-| [Regionarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_Regionarkivet) | 74 | 24 | 
-| [Stockholms stadsmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsmuseum) | 72 | 49 | 
-| [Stockholms stadsarkiv](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsarkiv) | 61 | 51 | 
-| [Brunnsmuseet](https://commons.wikimedia.org/wiki/Category:Media_provided_by_Brunnsmuseet) | 59 | 9 | 
-| [Skellefteå museum](https://commons.wikimedia.org/wiki/Category:Images_from_Skellefteå_Museum) | 59 | 44 | 
-| [Riksutställningar](https://commons.wikimedia.org/wiki/Category:Images_from_Riksutställningar) | 37 | 4 | 
+| [Statens maritima museer](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_maritima_museer) | 4504 (+738) | 771 (+257) |
+| [Kungliga Biblioteket](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Library_of_Sweden) | 2542 (+8) | 45 (+14) |
+| [Tekniska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Tekniska_museet) | 1789 (+728) | 804 (+585) |
+| [Armémuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Army_Museum) | 1205 (+86) | 665 (+93) |
+| [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 1120 (−52) | 53 (+21) |
+| [Work With Sounds (Arbetets museum)](https://commons.wikimedia.org/wiki/Category:Media_from_Work_With_Sounds) | 911 (+1) | 78 (+12) |
+| [Thielska galleriet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Thielska_Galleriet_Stockholm_2020) | 795 (+795) | 102 (+102) | 
+| [Riksarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Archives_of_Sweden) | 682 (+3) | 112 (+9) |
+| [Flygvapenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Air_Force_Museum) | 475 (+109) | 190 (+51) |
+| [Spårvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Spårvägsmuseet) | 262 (+16) | 70 (+7) |
+| [Järnvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Railway_Museum) | 188 (+21) | 20 (+9) |
+| [Länsmuseet Gävleborg](https://commons.wikimedia.org/wiki/Category:Images_from_Länsmuseet_Gävleborg) | 125 (+114) | 85 (+77) |
+| [Upplandsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Upplandsmuseet) | 90 (+3) | 23 (+2) |
+| [Internetmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Internetmuseum) | 75 (+11) | 26 (+5) |
+| [Regionarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_Regionarkivet) | 74 (0) | 24 (0) |
+| [Stockholms stadsmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsmuseum) | 72 (+37) | 49 (+15) |
+| [Stockholms stadsarkiv](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsarkiv) | 61 (+4) | 51 (+4) |
+| [Skellefteå museum](https://commons.wikimedia.org/wiki/Category:Images_from_Skellefteå_Museum) | 59 (+2) | 44 (+2) |
+| [Brunnsmuseet](https://commons.wikimedia.org/wiki/Category:Media_provided_by_Brunnsmuseet) | 59 (+6) | 9 (0) |
+| [Riksutställningar](https://commons.wikimedia.org/wiki/Category:Images_from_Riksutställningar) | 37 (0) | 4 (0) |
 | [Jönköpings läns museum](https://commons.wikimedia.org/wiki/Category:Images_from_Jönköpings_läns_museum) | 11 | 7 | 
-| [Vänersborgs museum](https://commons.wikimedia.org/wiki/Category:Images_from_Vänersborgs_museum) | 7 | 2 | 
-| [Falbygdens museum](https://commons.wikimedia.org/wiki/Category:Images_from_Falbygdens_museum) | 1 | 1 | 
-
-
-| institution | files | used |
-|---|---|---|
-
-| [Statens maritima museer](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_maritima_museer) | 3766 (+975) | 514 (+203) |
-| [Kungliga Biblioteket](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Library_of_Sweden) | 2534 (+6) | 31 (±0) |
-| [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 1172 (+1128) | 32 (±0) |
-| [Armémuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Army_Museum) | 1119 (+141) | 572 (+41) |
-| [Tekniska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Tekniska_museet) | 1061 (+28) | 219 (+26) |
-| [Work With Sounds (Arbetets museum)](https://commons.wikimedia.org/wiki/Category:Media_from_Work_With_Sounds) | 910 (±0) | 66 (+2) |
-| [Riksarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Archives_of_Sweden) | 679 (+1) | 103 (–5) |
-| [Flygvapenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Air_Force_Museum) | 366 (+27) | 139 (+9) |
-| [Spårvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Spårvägsmuseet) | 246 (±0) | 63 (+1) |
-| [Upplandsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Upplandsmuseet) | 87 (+4) | 21 (+3) |
-| [Regionarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_Regionarkivet) | 74 (±0) | 24 (±0) |
-| [Internetmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Internetmuseum) | 64 (±0) | 21 (±0) |
-| [Stockholms stadsarkiv](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsarkiv) | 57 (+5) | 47 (+5) |
-| [Skellefteå museum](https://commons.wikimedia.org/wiki/Category:Images_from_Skellefteå_Museum) | 57 (±0) | 42 (±0) |
-| [Brunnsmuseet](https://commons.wikimedia.org/wiki/Category:Media_provided_by_Brunnsmuseet) | 53 (–2) | 9 (+2) |
-| [Riksutställningar](https://commons.wikimedia.org/wiki/Category:Images_from_Riksutställningar) | 37 (±0)| 4 (±0) |
-| [Stockholms stadsmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsmuseum) | 35 (+3) | 34 (+6) |
-| [Länsmuseet Gävleborg](https://commons.wikimedia.org/wiki/Category:Images_from_Länsmuseet_Gävleborg) | 11 (+6) | 8 (+3) |
-| [Vänersborgs museum](https://commons.wikimedia.org/wiki/Category:Images_from_Vänersborgs_museum) | 5 (+4) | 1 (±0) |
-| [Falbygdens museum](https://commons.wikimedia.org/wiki/Category:Images_from_Falbygdens_museum) | 1 (+1) | 1 (+1) |
-| [Järnvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Railway_Museum) | 167 (+160) | 11 (+5) |
-
+| [Vänersborgs museum](https://commons.wikimedia.org/wiki/Category:Images_from_Vänersborgs_museum) | 7 (+2) | 2 (+1) |
+| [Falbygdens museum](https://commons.wikimedia.org/wiki/Category:Images_from_Falbygdens_museum) | 1 (0) | 1 (0) |
 
 ### Update log
 
