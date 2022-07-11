@@ -4,14 +4,43 @@
 
 (comparison is with 2019-01-31)
 
+
+| institution | files | used | 
+|---|---|---|---|
+| [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Media_from_the_Swedish_National_Heritage_Board) | 185940 (+9) | 5272 (+760) | 
+| [Livrustkammaren, Skoklosters slott och Hallwylska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet) | 46372 (+22) | 2533 (+224) | 
+| [Nordiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Nordiska_museet) | 14194 (+1849) | 1176 (+313) | 
+| [Musikverket](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Performing_Arts_Agency) | 9490 (+3469) | 3346 (+3044) | 
+| [Statens museer för världskultur](https://commons.wikimedia.org/wiki/Category:Media_from_the_National_Museums_of_World_Culture) | 5801 (+353) | 417 (+149) | 
+| [Nationalmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Nationalmuseum_Stockholm) | 5498 (+50) | 5301 (+555) | 
+| [Statens maritima museer](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_maritima_museer) | 4504 (+738) | 771 | 
+| [Kungliga Biblioteket](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Library_of_Sweden) | 2542 | 45 |
+| [Tekniska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Tekniska_museet) | 1789 | 804 | 
+| [Armémuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Army_Museum) | 1205 | 665 | 
+| [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 1120 | 53 | 
+| [Work With Sounds (Arbetets museum)](https://commons.wikimedia.org/wiki/Category:Media_from_Work_With_Sounds) | 911 | 78 | 
+| [Thielska galleriet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Thielska_Galleriet_Stockholm_2020) | 795 | 102 | 
+| [Riksarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Archives_of_Sweden) | 682 | 112 | 
+| [Flygvapenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Air_Force_Museum) | 475 | 190 | 
+| [Spårvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Spårvägsmuseet) | 262 | 70 | 
+| [Järnvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Railway_Museum) | 188 | 20 | 
+| [Länsmuseet Gävleborg](https://commons.wikimedia.org/wiki/Category:Images_from_Länsmuseet_Gävleborg) | 125 | 85 | 
+| [Upplandsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Upplandsmuseet) | 90 | 23 | 
+| [Internetmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Internetmuseum) | 75 | 26 | 
+| [Regionarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_Regionarkivet) | 74 | 24 | 
+| [Stockholms stadsmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsmuseum) | 72 | 49 | 
+| [Stockholms stadsarkiv](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsarkiv) | 61 | 51 | 
+| [Brunnsmuseet](https://commons.wikimedia.org/wiki/Category:Media_provided_by_Brunnsmuseet) | 59 | 9 | 
+| [Skellefteå museum](https://commons.wikimedia.org/wiki/Category:Images_from_Skellefteå_Museum) | 59 | 44 | 
+| [Riksutställningar](https://commons.wikimedia.org/wiki/Category:Images_from_Riksutställningar) | 37 | 4 | 
+| [Jönköpings läns museum](https://commons.wikimedia.org/wiki/Category:Images_from_Jönköpings_läns_museum) | 11 | 7 | 
+| [Vänersborgs museum](https://commons.wikimedia.org/wiki/Category:Images_from_Vänersborgs_museum) | 7 | 2 | 
+| [Falbygdens museum](https://commons.wikimedia.org/wiki/Category:Images_from_Falbygdens_museum) | 1 | 1 | 
+
+
 | institution | files | used |
 |---|---|---|
-| [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Media_from_the_Swedish_National_Heritage_Board) | 185931 (+207) | 4512 (+620) |
-| [Livrustkammaren, Skoklosters slott och Hallwylska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet) | 46350 (+3) | 2309 (+113) |
-| [Nordiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Nordiska_museet) | 12345 (+277) | 863 (+208) |
-| [Musikverket](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Performing_Arts_Agency) | 6021 (+1461) | 302 (+94) |
-| [Nationalmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Nationalmuseum_Stockholm) | 5448 (+36) | 4746 (+54) |
-| [Statens museer för världskultur](https://commons.wikimedia.org/wiki/Category:Media_from_the_National_Museums_of_World_Culture) | 4624 (+31) | 268 (+50) |
+
 | [Statens maritima museer](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_maritima_museer) | 3766 (+975) | 514 (+203) |
 | [Kungliga Biblioteket](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Library_of_Sweden) | 2534 (+6) | 31 (±0) |
 | [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 1172 (+1128) | 32 (±0) |
@@ -37,6 +66,7 @@
 
 ### Update log
 
+* 2021-05-18: updated stats, added Thielska galleriet
 * 2019-10-21: updated stats
 * 2019-01-31: updated stats, added Järnvägsmuseet
 * 2018-12-19: updated stats, added Länsmuseet Gävleborg
@@ -78,6 +108,7 @@
 * Stockholms stadsarkiv / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+by+Stockholms+stadsarkiv&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Stockholms stadsmuseum / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Stockholms+stadsmuseum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Tekniska museet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Tekniska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
+* Thielska galleriet / [Usage stats](https://glamtools.toolforge.org/glamorous.php?doit=1&category=Media+contributed+by+Thielska+Galleriet+Stockholm+2020&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Upplandsmuseet / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Upplandsmuseet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Vänersborgs museum / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Images+from+Vänersborgs+museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
 * Work With Sounds (Arbetets museum) / [Usage stats](https://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Media+from+Work+With+Sounds&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
