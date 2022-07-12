@@ -1,6 +1,6 @@
 ## Swedish #GLAMwiki stats
 
-### Current stats: 2022-07-11
+### Current stats: 2022-07-12
 
 (comparison is with 2021-05-18)
 
