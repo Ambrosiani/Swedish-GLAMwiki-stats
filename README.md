@@ -5,7 +5,7 @@
 (comparison is with 2021-05-18)
 
 
-| institution | files |
+| institution | files | used |
 |---|---|---|
 | [Riksantikvarieämbetet](https://commons.wikimedia.org/wiki/Category:Media_from_the_Swedish_National_Heritage_Board) | 185926 (−14) | 5543 (+271) |
 | [Livrustkammaren, Skoklosters slott och Hallwylska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Livrustkammaren_och_Skoklosters_slott_med_Stiftelsen_Hallwylska_museet) | 46380 (−352) | 3108 (+575) |
@@ -16,6 +16,7 @@
 | [Statens maritima museer](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_maritima_museer) | 4574 (+70) | 856 (+85) |
 | [Kungliga Biblioteket](https://commons.wikimedia.org/wiki/Category:Images_from_the_National_Library_of_Sweden) | 2546 (+4) | 48 (+3) |
 | [ArkDes](https://commons.wikimedia.org/wiki/Category:Images_from_ArkDes) | 1969 (+1969) | 160 (+160) |
+| [Medicinhistoriska museet, Göteborg](https://commons.wikimedia.org/wiki/Category:Images_from_Medicinhistoriska_museet,_Göteborg) | 1028 (+1028) | 35 (+35) |
 | [Tekniska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Tekniska_museet) | 1827 (+38) | 816 (+12) |
 | [Armémuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Army_Museum) | 1404 (+199) | 745 (+80) |
 | [Historiska museet](https://commons.wikimedia.org/wiki/Category:Images_from_Statens_historiska_museum) | 1113 (−7) | 64 (+11) |
@@ -44,6 +45,7 @@
 
 ### Update log
 
+* 2022-07-12: added Medicinhistoriska museet, Göteborg
 * 2022-07-11: updated stats, added ArkDes, Bohusläns museum, Helsingborgs museum, Postmuseum & Sörmlands museum
 * 2021-05-18: updated stats, added Thielska galleriet & Jönköpings läns museum
 * 2019-10-21: updated stats
