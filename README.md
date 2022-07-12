@@ -24,7 +24,11 @@
 | [Work With Sounds (Arbetets museum)](https://commons.wikimedia.org/wiki/Category:Media_from_Work_With_Sounds) | 911 (0) | 81 (+3) |
 | [Thielska galleriet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Thielska_Galleriet_Stockholm_2020) | 795 (0) | 127 (+25) |
 | [Sörmlands museum](https://commons.wikimedia.org/wiki/Category:All_images_from_Sörmlands_museum) | 760 (+760) | 114 (+114) |
+| [Göteborgs stadsmuseum](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_Museum_of_Gothenburg) | 629 (+629) | 81 (+81) |
+| [Sjöfartsmuseet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Sjöfartsmuseet) | 538 (+538) | 30 (+30) |
+| [Göteborgs konstmuseum](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Göteborgs_konstmuseum) | 510 (+510) | 82 (+82) |
 | [Flygvapenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Air_Force_Museum) | 488 (+13) | 204 (+14) |
+| [Röhsska museet](https://commons.wikimedia.org/wiki/Category:Media_contributed_by_Röhsska_Museum) | 402 (+402) | 3 (+3) |
 | [Helsingborgs museum](https://commons.wikimedia.org/wiki/Category:Images_from_Helsingborgs_museum) | 296 (+296) | 106 (+106) |
 | [Järnvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Railway_Museum) | 269 (+81) | 54 (+34) |
 | [Spårvägsmuseet](https://commons.wikimedia.org/wiki/Category:Images_from_Spårvägsmuseet) | 263 (+1) | 75 (+5) |
@@ -34,6 +38,7 @@
 | [Regionarkivet](https://commons.wikimedia.org/wiki/Category:Images_from_Regionarkivet) | 75 (+1) | 26 (+2) |
 | [Internetmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_Internetmuseum) | 75 (0) | 25 (−1) |
 | [Postmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Swedish_Postal_Museum) | 71 (+71) | 15 (+15) |
+| [Göteborgs Naturhistoriska Museum](https://commons.wikimedia.org/wiki/Category:Images_from_Göteborgs_Naturhistoriska_Museum) | 69 (+69) | 16 (+16) |
 | [Stockholms stadsarkiv](https://commons.wikimedia.org/wiki/Category:Images_from_Stockholms_stadsarkiv) | 62 (+1) | 52 (+1) |
 | [Brunnsmuseet](https://commons.wikimedia.org/wiki/Category:Media_provided_by_Brunnsmuseet) | 59 (0) | 10 (+1) |
 | [Skellefteå museum](https://commons.wikimedia.org/wiki/Category:Images_from_Skellefteå_Museum) | 59 (0) | 44 (0) |
@@ -45,7 +50,7 @@
 
 ### Update log
 
-* 2022-07-12: added Medicinhistoriska museet, Göteborg
+* 2022-07-12: added Medicinhistoriska museet i Göteborg, Göteborgs konstmuseum, Göteborgs stadsmuseum, Göteborgs naturhistoriska museum, Sjöfartsmuseet, Röhsska museet
 * 2022-07-11: updated stats, added ArkDes, Bohusläns museum, Helsingborgs museum, Postmuseum & Sörmlands museum
 * 2021-05-18: updated stats, added Thielska galleriet & Jönköpings läns museum
 * 2019-10-21: updated stats
